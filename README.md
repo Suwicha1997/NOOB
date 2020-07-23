@@ -1,8 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1,FLIM ACTION
-http://dreambox84.com:8000/Omani9455/Q52gFg1Gxo/3778
-
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/76a8ef55539478e6a49613d5313d76d2.png",FOX MOVIES PREMIUM
 http://160.119.77.50/iptv/hd-foxpremium.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/76a8ef55539478e6a49613d5313d76d2.png",FOX MOVIES สำรอง
@@ -13,6 +9,8 @@ http://kodinew.dyndns.tv:9981/stream/channelid/1301016442?ticket=3FF88899D9A0F49
 http://27.254.149.109:8081/tumlive/Foxfamily/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/7a78eb769ed2893c950d370fc0a88d75.png",FOX FAMILY MOVIES สำรอง
 http://kodinew.dyndns.tv:9981/stream/channelid/1766369682?ticket=2D2B0F930E18F6AAD71619F5769B53F65C7AD8AD&amp;profile=pass
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/7a78eb769ed2893c950d370fc0a88d75.png",FOX FAMILY MOVIES สำรอง
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/e4bdea473f077f6a64f09b42f50d6cb1.png",FOX ACTION MOVIES
 http://kodinew.dyndns.tv:9981/stream/channelid/1428299899?ticket=BB64D94A0425ADF3DA670196F4405C854C7FC3D2&amp;profile=pass
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/e4bdea473f077f6a64f09b42f50d6cb1.png",FOX ACTION MOVIES สำรอง
@@ -128,7 +126,7 @@ http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
 #EXTINF:-1,WARNER TV
 http://160.119.77.50/iptv/hd-warnertv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/abdd97bede17ee3720fe378f9636ef12.png",WARNER TV สำรอง
-https://tv4.chang55.com:446/live2/tv4ch88.stream/chunks.m3u8
+http://203.154.243.89:1205/
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/abdd97bede17ee3720fe378f9636ef12.png",WARNER TV สำรอง
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.live/images/2020/06/09/tue.png",TRUE AISAN SERIES
