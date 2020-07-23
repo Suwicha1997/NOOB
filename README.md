@@ -5,6 +5,8 @@ http://160.119.77.50/iptv/hd-foxpremium.stream/chunks.m3u8
 http://kodinew.dyndns.tv:9981/stream/channelid/514119238?ticket=CD26AEA100992C19E29B9EEE70CCC0A4A38AAD09&amp;profile=pass
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/76a8ef55539478e6a49613d5313d76d2.png",FOX MOVIES สำรอง
 http://kodinew.dyndns.tv:9981/stream/channelid/1301016442?ticket=3FF88899D9A0F491FB9FA317BD8C771B7D5F8E8A&amp;profile=pass
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/76a8ef55539478e6a49613d5313d76d2.png",FOX MOVIES สำรอง
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/7a78eb769ed2893c950d370fc0a88d75.png",FOX FAMILY MOVIES
 http://27.254.149.109:8081/tumlive/Foxfamily/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/7a78eb769ed2893c950d370fc0a88d75.png",FOX FAMILY MOVIES สำรอง
