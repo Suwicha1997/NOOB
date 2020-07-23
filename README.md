@@ -117,7 +117,7 @@ https://tv4.chang55.com:446/live2/tv4ch82.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",MOVIE4 iZAA
 https://tv4.chang55.com:446/live2/tv4ch94.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/ed00bd83cd9b9134cae8d15c048a2276.png",MOVIES5 UNIVERSAL
-https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
+http://203.154.243.89:1029
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/6a6b46b499a79e57d0177aef25605e8a.png",MOVIES6 CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/26c2afd28c156dc114ac72a0116dcee0.png",MOVIES7 M CHANNEL
@@ -945,6 +945,8 @@ http://185.236.229.2:8000/play/a01n/index.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221226011/4.m3u8
 #EXTINF:-1,NICK JR.
 http://160.119.77.50/iptv/uk-nickjr.stream/playlist.m3u8
+#EXTINF:-1,NICK JR. BG
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
 #EXTINF:-1,NICKELODEON
 http://live.highstream.club/live/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="",NICKELODEON สำรอง
