@@ -115,8 +115,8 @@ http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
 http://27.254.149.109:8081/tumlive/movie1.stream/playlist.m3u8
 #EXTINF:-1 tvg-  logo="https://www.img.in.th/images/cbf51b4d5106081e339a8bc410ef7ee4.png",MOVIE2 TH
 http://27.254.149.109:8081/tumlive/upmovie.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",MOVIE3 EN
-https://tv4.chang55.com:446/live2/tv4ch82.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",MOVIE3 SERIES EN
+http://203.154.243.89:1423/
 #EXTINF:-1 tvg-logo="https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",MOVIE4 iZAA
 http://203.154.243.89:1202
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/ed00bd83cd9b9134cae8d15c048a2276.png",MOVIES5 UNIVERSAL
@@ -684,17 +684,15 @@ https://tv4.chang55.com:446/live2/tv4ch44.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.live/images/2020/06/09/pinpng.com-wwe-png-3373140.png",WWE NETWORK 
 https://ktu.ktuiptvapp.com/8888/topfighthd.mkv
 #EXTINF:-1 tvg-logo="https://www.img.live/images/2020/06/09/pinpng.com-wwe-png-3373140.png",WWE สำรอง
-http://cdnak8.cast4u.info/channels/4/10804.m3u8
-#EXTINF:-1 tvg-logo="https://www.img.live/images/2020/06/09/pinpng.com-wwe-png-3373140.png",WWE สำรอง
-http://cdnak10.cast4u.info/channels/3/10803.m3u8
-#EXTINF:-1 tvg-logo="https://www.img.live/images/2020/06/09/pinpng.com-wwe-png-3373140.png",WWE สำรอง
-http://cdnak19.cast4u.info/channels/4/10804.m3u8
+http://203.154.243.89:1421/
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/bd8ab2e8b6651039fdafe304763498b2.png",VARZESH TV 
 http://51.158.66.44/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/43384a5570bc1041d997ae8065ee2cc7.png",FIGHT TIME
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
 #EXTINF:-1 tvg-logo='https://www.img.in.th/images/01b730056bb0a6cf144e31e1196726a9.png',K-1 WORLD
 https://ktu.ktuiptvapp.com/8888/k-1world.mkv
+#EXTINF:-1 tvg-logo='https://www.img.in.th/images/01b730056bb0a6cf144e31e1196726a9.png',K-1 WORLD สำรอง
+http://203.154.243.89:1422
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/f9f8611959bfea1175a238a4ffaed0d8.png",KIX SPORTS
 https://vcdnjt.useetv.com/joss/15/kix/chunklist_w1951885540_b1344100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.live/images/2020/06/09/resize.png",GOLF CHANNEL THAILAND
@@ -883,6 +881,8 @@ https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-logo='https://www.img.in.th/images/889fe3292f079a87f42a9255f7845ef5.png',AMZING SHOW
 https://ktu.ktuiptvapp.com/8888/amazing.mkv
+#EXTINF:-1 tvg-logo='https://www.img.in.th/images/889fe3292f079a87f42a9255f7845ef5.png',AMZING SHOW สำรอง
+http://203.154.243.89:1214/
 #EXTINF:-1 tvg-logo="",GOT TALENT GLOBAL
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.live/images/2020/06/09/blueant.png",BLUE ANT ENTERTAINMENT
