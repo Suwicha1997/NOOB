@@ -115,15 +115,17 @@ http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
 http://27.254.149.109:8081/tumlive/movie1.stream/playlist.m3u8
 #EXTINF:-1 tvg-  logo="https://www.img.in.th/images/cbf51b4d5106081e339a8bc410ef7ee4.png",MOVIE2 TH
 http://27.254.149.109:8081/tumlive/upmovie.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",MOVIE3 SERIES EN
+#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",MOVIE3 EN
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",MOVIE4 SERIES EN
 http://203.154.243.89:1423/
-#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",MOVIE4 iZAA
+#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",MOVIE5 iZAA
 http://203.154.243.89:1202
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/ed00bd83cd9b9134cae8d15c048a2276.png",MOVIES5 UNIVERSAL
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/ed00bd83cd9b9134cae8d15c048a2276.png",MOVIES6 UNIVERSAL
 http://203.154.243.89:1029
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/6a6b46b499a79e57d0177aef25605e8a.png",MOVIES6 CTB
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/6a6b46b499a79e57d0177aef25605e8a.png",MOVIES7 CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/26c2afd28c156dc114ac72a0116dcee0.png",MOVIES7 M CHANNEL
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/26c2afd28c156dc114ac72a0116dcee0.png",MOVIES8 M CHANNEL
 http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
 #EXTINF:-1,WARNER TV
 http://160.119.77.50/iptv/hd-warnertv.stream/playlist.m3u8
