@@ -118,7 +118,7 @@ http://27.254.149.109:8081/tumlive/upmovie.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",MOVIE3 EN
 https://tv4.chang55.com:446/live2/tv4ch82.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",MOVIE4 iZAA
-https://tv4.chang55.com:446/live2/tv4ch94.stream/chunks.m3u8
+http://203.154.243.89:1202
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/ed00bd83cd9b9134cae8d15c048a2276.png",MOVIES5 UNIVERSAL
 http://203.154.243.89:1029
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/6a6b46b499a79e57d0177aef25605e8a.png",MOVIES6 CTB
@@ -372,7 +372,7 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/f0ff8ab59ad33cb66017d6de5d168667.jpg",WORLD SCIENCE 
 https://tv4.chang55.com:446/live2/tv4ch35.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="",WORLD ANIMAL
-https://tv4.chang55.com:446/live2/tv4ch34.stream/chunks.m3u8
+http://203.154.243.89:1201/
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/5caee8d338dbde4be38fe0540b2f7286.png",TRUE X-ZYTE HD
 http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.live/images/2020/06/09/life.png",TRUE EXPLORE LIFE
